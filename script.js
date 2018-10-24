@@ -1,4 +1,3 @@
-"use strict";
 var result = ' x   ';
 function buff(val) {
     var buff = '';
